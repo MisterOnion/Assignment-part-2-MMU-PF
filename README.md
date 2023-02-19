@@ -10,20 +10,11 @@ Please provide the YouTube link to your [Video Demo](https://youtube.com).
 
 Provide instructions on how to compile your program, especially when it is non-trivial.
 
-For example:
-
-```
-g++ main.cpp folder1\code.cpp folder2\code.cpp ......
-```
+Vscode g++ compiler
 
 ## User Manual
 
-Please provide the user manual on how to use your program.
-
 Once the program .exe is executed, a console will pop up and further instructions will be given
-
-
-Please DO NOT change the Progress Log below. Leave it as it is.
 
 ## Progress Log
 
